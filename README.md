@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola soy Omar Alejandro Bazar  Desarrollador .NET  👋
 
 
 ![ARM](https://user-images.githubusercontent.com/69990247/117706224-522c9e80-b1cd-11eb-8d65-4a66e52c79dc.gif)
