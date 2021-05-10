@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 
-![blazormicrosoft](https://user-images.githubusercontent.com/69990247/117705349-3aa0e600-b1cc-11eb-8e56-a5daed100aae.png)
+![ARM](https://user-images.githubusercontent.com/69990247/117706224-522c9e80-b1cd-11eb-8d65-4a66e52c79dc.gif)
+
 
 <!--
 **alejandroX86/alejandroX86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
